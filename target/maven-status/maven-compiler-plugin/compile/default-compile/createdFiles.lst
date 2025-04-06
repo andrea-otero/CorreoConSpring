@@ -1,0 +1,4 @@
+com\example\correo\Correo1Application.class
+com\example\correo\service\EmailService.class
+com\example\correo\controller\RegistroController.class
+com\example\correo\dto\Registro.class
